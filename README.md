@@ -9,7 +9,8 @@
 6. Stop the Program
 ## PROGRAM
 ![image](https://github.com/Deepikasuresh05/2b_SLIDING_WINDOW_PROTOCOL/assets/148514509/5998849c-a2c7-491a-a47a-64dd445dcef0)
-![image](https://github.com/Deepikasuresh05/2b_SLIDING_WINDOW_PROTOCOL/assets/148514509/3aa2ec8e-ded2-4674-ae37-33901e81cfb0)
+![image](https://github.com/Deepikasuresh05/2b_SLIDING_WINDOW_PROTOCOL/assets/148514509/4c73cc8a-69a3-4aa0-b342-501fa192ea6a)
+
 
 ## OUPUT
 ![image](https://github.com/Deepikasuresh05/2b_SLIDING_WINDOW_PROTOCOL/assets/148514509/f649c375-833d-4dc1-935c-e0f4bd8a55ca)
